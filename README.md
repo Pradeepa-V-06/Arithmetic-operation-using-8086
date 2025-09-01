@@ -64,7 +64,6 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
 <img width="634" height="678" alt="image" src="https://github.com/user-attachments/assets/5b6ba9e0-0b7d-4032-ac2d-a175f676a15e" />
 
 
